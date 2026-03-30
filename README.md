@@ -8,4 +8,7 @@
 ### Figure3. 
 ![avator](./images/Figure-3.png)
 
+### Figure4. 
+![avator](./images/Figure4.png)
+
 ### Table 1. Comparison of actual training times for Agents=1, Agents=2, Agents=3, and the TD3 baseline in the walker2d-random-v2 environment, using a single NVIDIA 3090 GPU. For further details, please refer to Rebuttal R1-5.
