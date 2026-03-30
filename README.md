@@ -15,14 +15,14 @@
 ![avator](./images/Figure-2.png)
 ---
 
-### Figure3. 
+### Figure3. The impact of final Gaussian noise and the matched Gaussian baseline. Final Gaussian noise is removed (w/o FG), and the matched Gaussian is used to replace structured perturbations (w/ MG).
 ![avator](./images/Figure-3.png)
 ---
 
-### Figure4. 
+### Figure4. Performance comparison between SEBDC and WSRL on the D4RL MuJoCo benchmark.
 ![avator](./images/Figure-4.png)
 ---
 
-### Figure5. 
+### Figure5. Comparison of the 4:3:3 and 8:1:1 data splitting strategies. 
 ![avator](./images/Figure-5.png)
 ---
