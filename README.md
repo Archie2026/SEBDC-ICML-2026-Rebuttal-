@@ -5,4 +5,7 @@
 ### Figure 2. The impact of varying numbers of agents on SEBDC performance in the walker2d-medium-replay-v2 and halfcheetah-medium-v2 environments. For further details, please refer to Rebuttal R1-3.
 ![avator](./images/Figure-2.png)
 
+### Figure3. 
+![avator](./images/Figure-3.png)
+
 ### Table 1. Comparison of actual training times for Agents=1, Agents=2, Agents=3, and the TD3 baseline in the walker2d-random-v2 environment, using a single NVIDIA 3090 GPU. For further details, please refer to Rebuttal R1-5.
