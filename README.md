@@ -16,3 +16,7 @@
 ---
 
 ### Table 1. Comparison of actual training times for Agents=1, Agents=2, Agents=3, and the TD3 baseline in the walker2d-random-v2 environment, using a single NVIDIA 3090 GPU. For further details, please refer to Rebuttal R1-5.
+
+---
+### Table 2. D4RL normalized scores on MuJoCo locomotion control tasks, after online fine-tuning, averaged over five random seeds. All methods first perform 1M steps of offline pretraining, followed by 300k steps of online fine-tuning. Unless otherwise specified, all datasets are the v2 versions.
+![avator](./images/Table-2.png)
