@@ -11,8 +11,7 @@
 
 ### Table B. D4RL normalized scores on MuJoCo locomotion control tasks, after online fine-tuning, averaged over five random seeds. All methods first perform 1M steps of offline pretraining, followed by 300k steps of online fine-tuning. Unless otherwise specified, all datasets are the v2 versions.
 ![avator](./images/Table-B.png)
-<br>
-<br>
+<br><br>
 ---
 
 <br>
