@@ -4,40 +4,55 @@
 ![avator](./images/Table-1.png)
 <br>
 <br>
+<br>
 ---
 
 
 ### Table B. D4RL normalized scores on MuJoCo locomotion control tasks, after online fine-tuning, averaged over five random seeds. All methods first perform 1M steps of offline pretraining, followed by 300k steps of online fine-tuning. Unless otherwise specified, all datasets are the v2 versions.
 ![avator](./images/Table-2.png)
+<br>
+<br>
+<br>
 ---
 
 
-
-### Figure A. PCA visualization of perturbation vectors at 100K and 300K online steps in the halfcheetah-random-v2 environment. For further details, please refer to Rebuttal R1-1.
 ![avator](./images/Figure-1-1.png)
+### Figure A. PCA visualization of perturbation vectors at 100K and 300K online steps in the halfcheetah-random-v2 environment. For further details, please refer to Rebuttal R1-1.
+<br>
+<br>
+<br>
 ---
 
 
-
-### Figure B. The impact of varying numbers of agents on SEBDC performance in the walker2d-medium-replay-v2 and halfcheetah-medium-v2 environments. For further details, please refer to Rebuttal R1-3.
 ![avator](./images/Figure-2.png)
+### Figure B. The impact of varying numbers of agents on SEBDC performance in the walker2d-medium-replay-v2 and halfcheetah-medium-v2 environments. For further details, please refer to Rebuttal R1-3.
+<br>
+<br>
+<br>
 ---
 
 
-
-### Figure C. The impact of final Gaussian noise and the matched Gaussian baseline. Final Gaussian noise is removed (w/o FG), and the matched Gaussian is used to replace structured perturbations (w/ MG).
 ![avator](./images/Figure-3.png)
+### Figure C. The impact of final Gaussian noise and the matched Gaussian baseline. Final Gaussian noise is removed (w/o FG), and the matched Gaussian is used to replace structured perturbations (w/ MG).
+<br>
+<br>
+<br>
 ---
 
 
-### Figure D. Performance comparison between SEBDC and WSRL on the D4RL MuJoCo benchmark.
 ![avator](./images/Figure-4.png)
+### Figure D. Performance comparison between SEBDC and WSRL on the D4RL MuJoCo benchmark.
+<br>
+<br>
+<br>
 ---
 
 
-
-### Figure E. Comparison of the 4:3:3 and 8:1:1 data splitting strategies. 
 ![avator](./images/Figure-5.png)
+### Figure E. Comparison of the 4:3:3 and 8:1:1 data splitting strategies. 
+<br>
+<br>
+<br>
 ---
 
 
