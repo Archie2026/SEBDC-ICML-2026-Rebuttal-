@@ -17,14 +17,14 @@
 <br>
 
 ![avator](./images/Figure-A.png)
-### Figure A. PCA visualization of perturbation vectors at 100K and 300K online steps in the halfcheetah-random-v2 environment. For further details, please refer to Rebuttal R1-1.
+### Figure A. PCA visualization of perturbation vectors at 100K and 300K online steps in the halfcheetah-random-v2 environment.
 <br><br>
 ---
 
 <br>
 
 ![avator](./images/Figure-B.png)
-### Figure B. The impact of varying numbers of agents on SEBDC performance in the walker2d-medium-replay-v2 and halfcheetah-medium-v2 environments. For further details, please refer to Rebuttal R1-3.
+### Figure B. The impact of varying numbers of agents on SEBDC performance in the walker2d-medium-replay-v2 and halfcheetah-medium-v2 environments.
 <br><br>
 ---
 
