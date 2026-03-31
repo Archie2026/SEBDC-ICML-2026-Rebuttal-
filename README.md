@@ -1,6 +1,6 @@
 # SEBDC: Structured Exploration with Behavior Density Constraints for Offline-to-Online Reinforcement Learning (ICML 2026 Rebuttal)
 
-### Table A. Comparison of actual training times for Agents=1, Agents=2, Agents=3, and the TD3 baseline in the walker2d-random-v2 environment, using a single NVIDIA 3090 GPU. For further details, please refer to Rebuttal R1-5.
+### Table A. Comparison of the actual wall-clock time for 300k online fine-tuning steps of the TD3 baseline and Agents=1, Agents=2, and Agents=3 in the walker2d-medium-replay-v2 environment, using a single NVIDIA 3090 GPU. For Agents=1, Agents=2, and Agents=3, the reported time also includes behavior density model training.
 ![avator](./images/Table-1.png)
 ---
 
