@@ -2,6 +2,8 @@
 
 ### Table A. Comparison of the actual wall-clock time for 300k online fine-tuning steps of the TD3 baseline and Agents=1, Agents=2, and Agents=3 in the walker2d-medium-replay-v2 environment, using a single NVIDIA 3090 GPU. For Agents=1, Agents=2, and Agents=3, the reported time also includes behavior density model training.
 ![avator](./images/Table-1.png)
+<br>
+<br>
 ---
 
 
