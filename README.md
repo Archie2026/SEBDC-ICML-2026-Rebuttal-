@@ -17,7 +17,7 @@
 
 <br>
 
-![avator](./images/Figure-1.png)
+![avator](./images/Figure- 1.png)
 ### Figure A. PCA visualization of perturbation vectors at 100K and 300K online steps in the halfcheetah-random-v2 environment. For further details, please refer to Rebuttal R1-1.
 <br><br>
 ---
